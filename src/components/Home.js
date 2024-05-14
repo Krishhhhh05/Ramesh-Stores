@@ -12,7 +12,7 @@ const Landing = () => {
           <div className="lg:w-1/2 lg:text-center text-center flex flex-col justify-center align-center mb-4 lg:mb-0 p-4">
           <div className="mx-auto lg:w-3/4 lg:my-auto">
   <h1 className="title-font sm:text-5xl text-4xl lg:text-6xl mb-6 font-bold text-black font-dm">Ramesh Stores</h1>
-  <p className="mb-1 leading-relaxed font-medium font-dm text-xl lg:text-2xl text-black text-center lg:text-center">"Explore our online haven for stationery enthusiasts, where tradition meets modern convenience. With a rich legacy spanning over 50 years, our stationary shop's website is a timeless destination, offering a curated selection of quality writing instruments, paper goods, and office essentials to inspire creativity and organization in every generation."</p>
+  <p className="mb-1 leading-relaxed font-medium font-dm text-m lg:text-l text-black text-center lg:text-center">"Explore our online haven for stationery enthusiasts, where tradition meets modern convenience. With a rich legacy spanning over 50 years, our stationary shop's website is a timeless destination, offering a curated selection of quality writing instruments, paper goods, and office essentials to inspire creativity and organization in every generation."</p>
 </div>
 
             <div className="flex justify-center lg:justify-center">
